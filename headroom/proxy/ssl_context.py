@@ -47,7 +47,6 @@ import os
 import ssl
 import urllib.parse
 import urllib.request
-
 from collections.abc import Callable
 from typing import Any, cast
 
